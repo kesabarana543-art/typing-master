@@ -1,0 +1,5 @@
+{
+  "name": "TypeFlow AI",
+  "description": "An intelligent typing tutor that generates personalized practice lessons in English and Spanish using Gemini AI. Features real-time analytics, virtual keyboard, and adaptive difficulty.",
+  "requestFramePermissions": []
+}
